@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.idea
+.lock
+*.log
+*.cfg
+*.tox
+!setup.cfg
+*.egg-info
+build
+dist
+py27
+py36
